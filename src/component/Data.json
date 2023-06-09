@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "AYO",
+        "Course": "Frontend Engineering",
+        "section":[{
+            "name": "section A"
+        }]
+    },
+    {
+        "id": 3,
+        "name": "Mrs Faith",
+        "Course": "Backend Engineering",
+        "section":[{
+            "name": "section B"
+        }]
+    },
+    {
+        "id": 4,
+        "name": " Mrs Hope",
+        "Course": "Full Stack",
+        "section":[{
+            "name": "section C"
+        }]
+    },
+    {
+        "id": 5,
+        "name": "cynthia",
+        "Course": "Cloud Engineer",
+        "section":[{
+            "name": "section D"
+        }]
+    },
+    {
+        "id": 6,
+        "name": "Faith",
+        "Course": "DevOps",
+        "section":[{
+            "name": "section E"
+        }]
+    },
+    {
+        "id": 7,
+        "name": "Racheal",
+        "Course": "Computer Scientist",
+        "section":[{
+            "name": "section F"
+        }]
+    }
+]
